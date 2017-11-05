@@ -1,0 +1,7 @@
+.DS_Store
+graphdebug.exe
+graphDebug.exe.dSYM/
+hackerrank.txt
+outfile.txt
+*.o
+*.exe
